@@ -1,3 +1,4 @@
+![logo](https://github.com/swapnil2382/swapnil2382/blob/main/1_aniyNTcHORbvDiLGUzJSsQ.gif)
 <h1 align="center">Hi 👋, I'm Swapnil Patil</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
