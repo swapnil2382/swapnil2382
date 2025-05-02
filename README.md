@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://swapnil2382.github.io/port-folio/](https://swapnil2382.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://swapnil2382.github.io/Portfolio/](https://swapnil2382.github.io/Portfolio/)
 
 - 💬 Ask me about **React, Node ,Express, MongoDB**
 
